@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    background-color: lightskyblue;
+    height: 2000px;
+    width: 100vw;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.card{
+    color: green;
+    font-size: x-small;
+}
+
+.My{
+    color: black;
+    font-size: x-large;
+}
+
+.juni{
+    color: black;
+    font-size: x-large;
+}
+
+.jan{
+    color: black;
+    font-size: x-large;
+}
